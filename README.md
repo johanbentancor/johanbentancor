@@ -13,7 +13,7 @@ Busco mi **primera pasantía** en desarrollo de software, soporte o infraestruct
 ### Proyectos destacados
 | Proyecto | Qué es | Tecnologías |
 |---|---|---|
-| [**Asistente de Ajedrez**](https://github.com/johanbentancor/ajedrez) | App web con el motor Stockfish, análisis de partidas de chess.com y lichess, ejercicios y aperturas. [Probarla →](https://johanbentancor.github.io/ajedrez/) | JavaScript, Web Workers, APIs REST |
-| [**ClinicaVida**](https://github.com/johanbentancor/clinicavida) | Sistema de gestión de un centro médico con arquitectura Modelo – DAO – Vista. | Java, JDBC, MySQL, Swing |
+| [**Asistente de Ajedrez**](https://github.com/johanbentancor/ajedrez) | App web con el motor Stockfish, análisis de partidas de chess.com y lichess, ejercicios y aperturas. [Probarla →](https://johanbentancor.github.io/ajedrez/ajedrez.html) | JavaScript, Web Workers, APIs REST |
+| **ClinicaVida** | Sistema de gestión de un centro médico con arquitectura Modelo – DAO – Vista. | Java, JDBC, MySQL, Swing |
 | [**JbM STUDIO**](https://jbm-studio-web.netlify.app) | Mi emprendimiento de páginas web y códigos QR: sitio, panel de administración y backend serverless. | JavaScript, Node.js, Netlify Functions |
 | **Level Up Gaming** | Infraestructura Linux en equipo: LVM, usuarios y permisos, DHCP, firewall y respaldos con cron. | Linux, Bash, MariaDB |
